@@ -20,7 +20,7 @@ public class Ejercicio9 {
 
 
         System.out.println();
-        for(int i = 1; i<=numfilas; i++){
+        for(int i = 1; i<=numFilas; i++){
             //Espacios en blanco
             for(int j = 1; j<=i; j++){
                 System.out.print(j + " ");
